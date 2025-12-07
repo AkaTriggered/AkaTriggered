@@ -1,4 +1,4 @@
-# 💀 AkaTriggered aka Anupam | Digital Ghost 👾
+# 💀 AkaTriggered | Digital Ghost 👾
 
 <div align="center">
   
@@ -79,12 +79,15 @@ $ cat interests.txt
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkaTriggered&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaTriggered&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkaTriggered&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkaTriggered&theme=radical&hide_border=true&background=0d1117)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkaTriggered&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AkaTriggered&theme=radical&hide_border=true&background=0d1117)
 
 </div>
 
@@ -94,17 +97,17 @@ $ cat interests.txt
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AkaTriggered&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkaTriggered&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/AkaTriggered/AkaTriggered/output/github-contribution-grid-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkaTriggered&theme=react-dark&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -132,6 +135,8 @@ $ cat interests.txt
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:killerboy99126@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anupamleftover)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/314zth2jok6uh2dejzyy6lqwvzxq)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkaTriggered)
 
 </div>
